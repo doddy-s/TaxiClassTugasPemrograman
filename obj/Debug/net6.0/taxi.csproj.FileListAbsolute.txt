@@ -1,0 +1,15 @@
+/home/doddys/Documents/Kuliah/Mata Kuliah/Semester 2/ST021 - PEMROGRAMAN/Pertemuan3/taxi/bin/Debug/net6.0/taxi
+/home/doddys/Documents/Kuliah/Mata Kuliah/Semester 2/ST021 - PEMROGRAMAN/Pertemuan3/taxi/bin/Debug/net6.0/taxi.deps.json
+/home/doddys/Documents/Kuliah/Mata Kuliah/Semester 2/ST021 - PEMROGRAMAN/Pertemuan3/taxi/bin/Debug/net6.0/taxi.runtimeconfig.json
+/home/doddys/Documents/Kuliah/Mata Kuliah/Semester 2/ST021 - PEMROGRAMAN/Pertemuan3/taxi/bin/Debug/net6.0/taxi.dll
+/home/doddys/Documents/Kuliah/Mata Kuliah/Semester 2/ST021 - PEMROGRAMAN/Pertemuan3/taxi/bin/Debug/net6.0/ref/taxi.dll
+/home/doddys/Documents/Kuliah/Mata Kuliah/Semester 2/ST021 - PEMROGRAMAN/Pertemuan3/taxi/bin/Debug/net6.0/taxi.pdb
+/home/doddys/Documents/Kuliah/Mata Kuliah/Semester 2/ST021 - PEMROGRAMAN/Pertemuan3/taxi/obj/Debug/net6.0/taxi.csproj.AssemblyReference.cache
+/home/doddys/Documents/Kuliah/Mata Kuliah/Semester 2/ST021 - PEMROGRAMAN/Pertemuan3/taxi/obj/Debug/net6.0/taxi.GeneratedMSBuildEditorConfig.editorconfig
+/home/doddys/Documents/Kuliah/Mata Kuliah/Semester 2/ST021 - PEMROGRAMAN/Pertemuan3/taxi/obj/Debug/net6.0/taxi.AssemblyInfoInputs.cache
+/home/doddys/Documents/Kuliah/Mata Kuliah/Semester 2/ST021 - PEMROGRAMAN/Pertemuan3/taxi/obj/Debug/net6.0/taxi.AssemblyInfo.cs
+/home/doddys/Documents/Kuliah/Mata Kuliah/Semester 2/ST021 - PEMROGRAMAN/Pertemuan3/taxi/obj/Debug/net6.0/taxi.csproj.CoreCompileInputs.cache
+/home/doddys/Documents/Kuliah/Mata Kuliah/Semester 2/ST021 - PEMROGRAMAN/Pertemuan3/taxi/obj/Debug/net6.0/taxi.dll
+/home/doddys/Documents/Kuliah/Mata Kuliah/Semester 2/ST021 - PEMROGRAMAN/Pertemuan3/taxi/obj/Debug/net6.0/ref/taxi.dll
+/home/doddys/Documents/Kuliah/Mata Kuliah/Semester 2/ST021 - PEMROGRAMAN/Pertemuan3/taxi/obj/Debug/net6.0/taxi.pdb
+/home/doddys/Documents/Kuliah/Mata Kuliah/Semester 2/ST021 - PEMROGRAMAN/Pertemuan3/taxi/obj/Debug/net6.0/taxi.genruntimeconfig.cache

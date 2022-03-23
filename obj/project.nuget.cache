@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9oclthrQxbdLb5LZJp9VO0Ho19BxTceOjChPrwWUm4xGP7uTkwvRx3V+cO4eij+5+7EiFtgpTc4m8x3v4RZVsQ==",
+  "success": true,
+  "projectFilePath": "/home/doddys/Documents/Kuliah/Mata Kuliah/Semester 2/ST021 - PEMROGRAMAN/Pertemuan3/taxi/taxi.csproj",
+  "expectedPackageFiles": [
+    "/home/doddys/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
